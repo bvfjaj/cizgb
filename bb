@@ -3,7 +3,7 @@ local function s1()
 end 
 
 local function s2() 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MriseHubX/main/refs/heads/main/BladeBall'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MriseHubX/main/refs/heads/main/BladeBall"))()
 end 
 
 local function s3() 
